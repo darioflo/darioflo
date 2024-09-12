@@ -1,11 +1,11 @@
-<h1 align="center">Hola 👋, soy darioflo</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Cuba</h3>
+<h1 align="center">Hello 👋, I'm darioflo</h1>
+<h3 align="center">A passionate frontend developer from Cuba</h3>
 
-💬 Pregúntame sobre Javascript, React.js, Typescript, Next.js, Zustand, Redux, Vite, Bootstrap, Tailwind, Git, Canva, HTML y CSS
+💬 Ask me about Javascript, React.js, Typescript, Next.js, Zustand, Redux, Vite, Bootstrap, Tailwind, Git, Canva, HTML, and CSS
 
-📫 Cómo contactarme: dariflo19@icloud.com
+📫 How to reach me: dariflo19@icloud.com
 
-<h3 align="left">Conéctate conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/dario-fernandez-986a29270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-fernandez" height="30" width="40" />
@@ -21,7 +21,7 @@
   </a>
 </p>
 
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -45,7 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Ftailwindcss%2F&psig=AOvVaw2NaZ3KiE1B_XfX9PnEV4fA&ust=1726240172739000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiMpPTXvYgDFQAAAAAdAAAAABAE)](https://icons8.com/icon/x7XMNGh2vdqA/tailwind-css)" alt="tailwind" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
