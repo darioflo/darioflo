@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm darioflo</h1>
 <h3 align="center">A passionate frontend developer from Cuba</h3>
 
-- 💬 Ask me about React, Express.js, Nest.js, MongoDB
+- 💬 Ask me about Javascript, React.js, Typescript, Next.js
 
-- 📫 How to reach me tressordtony@gmail.com
+- 📫 How to reach me dariflo19@icloud.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
