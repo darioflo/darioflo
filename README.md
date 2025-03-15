@@ -57,15 +57,6 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.svg" alt="zustand" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Canva_logo.svg" alt="canva" width="40" height="40"/>
-  </a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
   </a>
