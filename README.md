@@ -6,6 +6,7 @@
 📫 How to reach me: dariflo19@icloud.com
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dario-fernandez-986a29270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dario-fernandez" height="30" width="40" />
@@ -65,6 +66,10 @@
   <a href="https://www.canva.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Canva_logo.svg" alt="canva" width="40" height="40"/>
   </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darioflo&show_icons=true&locale=en&layout=compact" alt="darioflo" /></p>
+
