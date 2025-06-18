@@ -4,6 +4,7 @@
 💬 Ask me about JavaScript, TypeScript, React.js, Angular, Next.js, Redux, Zustand, Vite, Bootstrap, Tailwind CSS, Java, Spring Boot, MongoDB, Git, HTML, CSS, and Canva.
 
 📫 How to reach me: **dariflo19@icloud.com**
+📫 How to reach me: **dariflo19@gmail.com**
 
 ---
 
